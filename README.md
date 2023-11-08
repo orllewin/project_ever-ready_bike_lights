@@ -1,4 +1,4 @@
-# Project: EveReady/Exide Bicycle Lights
+# Project: Ever Ready/Exide Bicycle Lights
 
 Modernising EveReady/Exide bike lights from the 70s/80s. These lights were a feature of any Gen-X-ers childhood, they used two large 'D cell' R20 batteries and a very dim PR527 0.42 amp bulb which wasn't much good for actually being seen.  
 
